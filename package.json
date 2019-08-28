@@ -73,6 +73,7 @@
     "js-yaml": "^3.13.1",
     "popper.js": "^1.14.7",
     "tar": "^4.4.8",
+    "tunnel-agent": "^0.6.0",
     "underscore.string": "^3.3.5"
   },
   "heroku-run-build-script": true
